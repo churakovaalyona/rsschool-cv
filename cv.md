@@ -2,7 +2,7 @@
 Alena Churakova
 
 ## Contacts
-Tel.:+79160903653
+Tel.:+7-916-090-3653
 
 Email: churakovaalyona@gmail.com
 
@@ -11,15 +11,17 @@ Discord nickname : churakovaalyona
 
 ## About me
 My full name is Alena Churakova.
-I’m a fourth-year student of Moscow International Institute, the faculty of Linguistics. I’ve decided to try something new and switched to Frontend because I've already worked in different spheres and I realised that programming is a better choice for me. I chose Frontend development because I like seeing the results of my work and I already had some experience with HTML when I was a child and I liked it. 
+I’m a fourth-year student of Moscow International Institute, the faculty of Linguistics. I’ve decided to try something new and switched to Frontend because I've already worked in different spheres and I realised that programming is a better choice for me. I chose Frontend development because I like seeing the results of my work and I already had some experience with HTML when I was a child and I liked it.
 Now I am looking for my first job as a developer.
 
 
 ## Skills
 
-HTML
+HTML5
 
-CSS
+CSS3
+
+Javascript Basics
 
 Git
 
@@ -45,11 +47,13 @@ console.log(totalPayment);
 [My github](https://churakovaalyona.github.io/)
 
 ## Education
-Moscow International Institute (English teacher) - 2020
+Moscow International Institute - Bachelor's degree (qualification- English teacher) – 2020 - 2025
 
-Netology Frontend course - 2023
+Netology Frontend course – 2022 - 2024
 
-RS school Frontend course - 2023
+RS school Frontend course – 2023 - 2024
 
 ## Languages
+Russian- Native speaker
 English - Advanced
+Italian - Elementary
