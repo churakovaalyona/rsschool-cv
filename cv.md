@@ -55,5 +55,7 @@ RS school Frontend course – 2023 - 2024
 
 ## Languages
 Russian- Native speaker
+
 English - Advanced
+
 Italian - Elementary
