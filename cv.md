@@ -21,7 +21,7 @@ HTML5
 
 CSS3
 
-Javascrip Basics
+Javascript Basics
 
 Git
 
